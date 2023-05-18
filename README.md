@@ -44,7 +44,17 @@ https://api2d.com/r/188879
 
 5.[免费] https://laicj.cn/
 
-6.[免费] 持续更新中
+6.[免费] https://chat.wuguokai.cn/
+
+7.[免费] https://chatgpt-cn.co/
+
+8. http://chatai.fyi
+
+9. [自带API key] https://bettergpt.chat/
+
+10. [自带API key] https://www.tdchat.com/
+
+11. 持续更新中
 
 # 调教指南
 

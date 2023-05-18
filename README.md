@@ -34,12 +34,17 @@ https://api2d.com/r/188879
 
 ## ChatGPT 镜像站 (面魔法使用) 亲测
 
-[授权码] https://gpt6.fun/
-[免费] https://2dog.51mskd.com/chat
-[免费] https://chat.aidutu.cn/#/chat/1002
-[免费] https://huggingface.co/chat/conversation/645b386eb9526896ac608ac5
-[免费] https://laicj.cn/
-[免费] 持续更新中
+1.[授权码] https://gpt6.fun/
+
+2.[免费] https://2dog.51mskd.com/chat
+
+3.[免费] https://chat.aidutu.cn/#/chat/1002
+
+4.[免费] https://huggingface.co/chat/conversation/645b386eb9526896ac608ac5
+
+5.[免费] https://laicj.cn/
+
+6.[免费] 持续更新中
 
 # 调教指南
 
@@ -58,6 +63,25 @@ https://www.yuque.com/tomatosauce/sur15w/wztgz0iiahppy8ag
 新增【腾讯文档】代码 prompts
 https://docs.qq.com/sheet/DTmVoSWtReldIb0lo?tab=BB08J2
 
-# 高效使用 chatGPT 的技巧
+# 高效玩转 chatGPT 的技巧
+
+## 高效提问技巧
+
+1. 给 ChatPGT 明确的职业定位！
+明确的定位可以方便GPT快速的理解它要执行的任务以及以何种方式返回结果。
+
+例子：我想让你充当 Linux 终端。我将输入命令，您将回复终端应显示的内容。我希望您只在一个唯一的代码块内回复终端输出，而不是其他任何内容。不要写解释。除非我指示您这样做，否则不要键入命令。当我需要用英语告诉你一些事情时，我会把文字放在中括号内[就像这样]
+
+2. 明确的正向或负向的反馈
+GPT是拥有记忆的，明确的给出正向或负向的反馈有助于它沿着正确的方向生成答案。
+
+例子：你刚才的回答考虑不周全，没有考虑到5.20，6.18 等重大活动日，...
+例子：你的思路是对的，在此基础上完善答案。
+
+3. 最好使用英语提问
+
+4. 更新中
+
 
 ## 提示词：
+

@@ -83,5 +83,5 @@ GPT是拥有记忆的，明确的给出正向或负向的反馈有助于它沿�
 4. 更新中
 
 
-## 提示词(https://github.com/qcl006007/ChatGPT-Knowledge-Share/blob/master/ChatGPT%20%5B%E6%8F%90%E7%A4%BA%E8%AF%8D%7C%20%E5%A4%A7%E5%85%A8)
+## [提示词](https://github.com/qcl006007/ChatGPT-Knowledge-Share/blob/master/ChatGPT%20%5B%E6%8F%90%E7%A4%BA%E8%AF%8D%7C%20%E5%A4%A7%E5%85%A8)
 
